@@ -1,0 +1,31 @@
+
+
+
+                                                                 Optimization Report
+                                                            EA31337-Rider-Optimize-v1.078
+                                                                     (Build 1010)
+
+                            Symbol          EURUSD (Euro vs US Dollar)
+                            Period          30 Minutes (M30) 2018.01.04 03:00 - 2018.12.30 23:30 (2018.01.01 - 2018.12.31)
+                            Model           Every tick (the most precise method based on all available least timeframes)
+                            Initial deposit 100000.00
+                            Spread          10
+                                                                 [Optimization Graph]
+       Pass    Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+         12 103976.88          365          3.07          284.87   87118.08      49.36 Market_Condition_1=13; MaxOrders=0; MaxOrdersPerType=0;
+         13 103976.88          365          3.07          284.87   87118.08      49.36 Market_Condition_1=14; MaxOrders=0; MaxOrdersPerType=0;
+         17  39913.53         1459          1.17           27.36   43354.73      30.42 Market_Condition_1=18; MaxOrders=0; MaxOrdersPerType=0;
+         10  38193.85         1619          1.16           23.59   20619.36      15.59 Market_Condition_1=10; MaxOrders=0; MaxOrdersPerType=0;
+         16  38193.85         1619          1.16           23.59   20619.36      15.59 Market_Condition_1=17; MaxOrders=0; MaxOrdersPerType=0;
+         11  26042.22         1459          1.11           17.85   41966.92      27.06 Market_Condition_1=11; MaxOrders=0; MaxOrdersPerType=0;
+          3  23183.50         1747          1.13           13.27   17019.56      16.49  Market_Condition_1=3; MaxOrders=0; MaxOrdersPerType=0;
+          2  22812.88         1749          1.13           13.04   15473.10      15.32  Market_Condition_1=2; MaxOrders=0; MaxOrdersPerType=0;
+          5  21059.05         1714          1.12           12.29   16582.15      16.34  Market_Condition_1=5; MaxOrders=0; MaxOrdersPerType=0;
+          9  20558.47         1709          1.12           12.03   15393.11      15.19  Market_Condition_1=9; MaxOrders=0; MaxOrdersPerType=0;
+          6  20160.39         1745          1.11           11.55   15476.70      15.32  Market_Condition_1=6; MaxOrders=0; MaxOrdersPerType=0;
+         15  18382.85         1707          1.10           10.77   14316.90      14.05 Market_Condition_1=16; MaxOrders=0; MaxOrdersPerType=0;
+          7  16885.95         1744          1.09            9.68   17375.74      16.92  Market_Condition_1=7; MaxOrders=0; MaxOrdersPerType=0;
+          1  15997.47         1775          1.10            9.01   17675.62      17.50  Market_Condition_1=1; MaxOrders=0; MaxOrdersPerType=0;
+          4  12515.05         1723          1.07            7.26   16432.56      16.25  Market_Condition_1=4; MaxOrders=0; MaxOrdersPerType=0;
+          8   8077.68         1723          1.05            4.69   17982.43      17.74  Market_Condition_1=8; MaxOrders=0; MaxOrdersPerType=0;
+         14   2961.00         1631          1.02            1.82   25364.78      24.24 Market_Condition_1=15; MaxOrders=0; MaxOrdersPerType=0;
