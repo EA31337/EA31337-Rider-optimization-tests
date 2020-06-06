@@ -1,3 +1,4 @@
+---
 version: '3.4'
 services:
   Account_Conditions_Active:
@@ -12,9 +13,6 @@ services:
       RUN_ON_SET: set_opt_params Account_Conditions_Active 0 1
       SETFILE: /opt/sets/EA31337-Account_Conditions_Active.set
       TEST_REPORT_NAME: EA31337-Account_Conditions_Active
-    deploy:
-      restart_policy:
-        condition: none
   # Test equity above balance actions.
   Account_Condition_1:
     command: run_backtest -v
@@ -28,9 +26,6 @@ services:
       RUN_ON_SET: set_opt_params Account_Condition_1 2 5
       SETFILE: /opt/sets/EA31337-Action_On_Condition_01.set
       TEST_REPORT_NAME: EA31337-Account_Condition_01
-    deploy:
-      restart_policy:
-        condition: none
   Market_Condition_1:
     command: run_backtest -v
     image: ea31337/ea-tester:EURUSD-2018-DS
@@ -44,9 +39,6 @@ services:
       RUN_ON_SET: set_opt_params Market_Condition_1 1 19
       SETFILE: /opt/sets/EA31337-Action_On_Condition_01.set
       TEST_REPORT_NAME: EA31337-Market_Condition_01
-    deploy:
-      restart_policy:
-        condition: none
   Action_On_Condition_1:
     command: run_backtest -v
     image: ea31337/ea-tester:EURUSD-2018-DS
@@ -60,6 +52,3 @@ services:
       RUN_ON_SET: set_opt_params Action_On_Condition_1 0 10
       SETFILE: /opt/sets/EA31337-Action_On_Condition_01.set
       TEST_REPORT_NAME: EA31337-Action_On_Condition_01
-    deploy:
-      restart_policy:
-        condition: none
