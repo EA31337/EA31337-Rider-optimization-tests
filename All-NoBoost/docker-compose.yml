@@ -88,4 +88,3 @@ services:
       RUN_ON_SET: set_opt_params TrendPeriod 5 1440 0
       SETFILE: /opt/sets/EA31337-TrendPeriod.set
       TEST_REPORT_NAME: EA31337-TrendPeriod
-      SET_PARAMS: TrendPeriod
