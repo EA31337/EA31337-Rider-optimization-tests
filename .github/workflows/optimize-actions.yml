@@ -9,7 +9,7 @@ on:
       - 'optimize-actions-*'
 
 jobs:
-  Optimize-Condition1:
+  Condition1:
     defaults:
       run:
         shell: bash
@@ -40,12 +40,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
     env:
       DCA: "--rm"
-  Optimize-Active:
+  Active:
     defaults:
       run:
         shell: bash
         working-directory: Actions
-    needs: Optimize-Condition1
+    needs: Condition1
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
