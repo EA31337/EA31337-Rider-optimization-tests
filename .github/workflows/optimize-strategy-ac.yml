@@ -14,7 +14,7 @@ jobs:
       run:
         shell: bash
         working-directory: Strategies/AC/Timeframes
-    needs: Optimize-OpenCondition
+    needs: OpenCondition
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
