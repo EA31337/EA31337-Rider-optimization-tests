@@ -14,7 +14,6 @@ jobs:
       run:
         shell: bash
         working-directory: Strategies/Bands/Timeframes
-    needs: OpenCondition
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
