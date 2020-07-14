@@ -25,10 +25,15 @@ jobs:
       - run: docker-compose run DefaultTrailingStopMethod
       - name: Commit files
         run: |
-          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local core.autocrlf false
+          git config --local user.email "$git_email"
           git config --local user.name "${{ github.actor }}"
-          git pull origin ${{ github.ref }} --autostash --rebase -Xours
-          git commit -m "Updates action test results" -a
+          git pull origin ${{ github.ref }} --autostash --rebase -xours
+          git add . && git add --renormalize .
+          git status
+          git commit -am "${{ github.workflow }}"
+        env:
+          git_email: "${{ github.actor }}@users.noreply.github.com"
       - name: Git Diff
         run: NO_PAGER=1 git --no-pager diff HEAD^
       - name: Push changes
@@ -55,10 +60,15 @@ jobs:
       - run: docker-compose run DefaultTrailingProfitMethod
       - name: Commit files
         run: |
-          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local core.autocrlf false
+          git config --local user.email "$git_email"
           git config --local user.name "${{ github.actor }}"
-          git pull origin ${{ github.ref }} --autostash --rebase -Xours
-          git commit -m "Updates action test results" -a
+          git pull origin ${{ github.ref }} --autostash --rebase -xours
+          git add . && git add --renormalize .
+          git status
+          git commit -am "${{ github.workflow }}"
+        env:
+          git_email: "${{ github.actor }}@users.noreply.github.com"
       - name: Git Diff
         run: NO_PAGER=1 git --no-pager diff HEAD^
       - name: Push changes
