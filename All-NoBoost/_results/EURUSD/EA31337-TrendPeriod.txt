@@ -2,19 +2,14 @@
 
 
                                                                  Optimization Report
-                                                            EA31337-Rider-Optimize-v1.078
-                                                                     (Build 1010)
+                                                               EA31337-Rider-v1.079-dev
+                                                                     (Build 1260)
 
-                            Symbol          EURUSD (Euro vs US Dollar)
-                            Period          30 Minutes (M30) 2018.01.04 03:00 - 2018.12.30 23:30 (2018.01.01 - 2018.12.31)
-                            Model           Every tick (the most precise method based on all available least timeframes)
-                            Initial deposit 100000.00
-                            Spread          10
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          1 Minute (M1) 2019.06.02 21:01 - 2019.12.30 23:59 (2019.06.01 - 2019.12.31)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 100000.00
+                             Spread          10
                                                                  [Optimization Graph]
           Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-             6 -3249.45         4165          0.69           -0.78    3258.06       3.26 TrendPeriod=1440; MaxOrders=0; MaxOrdersPerType=0;
-             3 -3280.74         4087          0.68           -0.80    3289.34       3.29   TrendPeriod=30; MaxOrders=0; MaxOrdersPerType=0;
-             2 -3287.24         4114          0.68           -0.80    3295.84       3.30   TrendPeriod=15; MaxOrders=0; MaxOrdersPerType=0;
-             5 -3292.64         4120          0.68           -0.80    3301.24       3.30  TrendPeriod=240; MaxOrders=0; MaxOrdersPerType=0;
-             4 -3293.84         4098          0.68           -0.80    3302.44       3.30   TrendPeriod=60; MaxOrders=0; MaxOrdersPerType=0;
-             1 -3310.74         4126          0.68           -0.80    3319.34       3.32    TrendPeriod=5; MaxOrders=0; MaxOrdersPerType=0;
+             1 -1246.56         3447          0.88           -0.36    1686.54       1.68 MaxOrders=0; MaxOrdersPerType=0; MaxOrdersPerDay=0;
