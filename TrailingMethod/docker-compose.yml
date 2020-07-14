@@ -9,6 +9,7 @@ services:
       - ./_results/EURUSD:/opt/_results:rw
     env_file: ../EA-Tester.ini
     environment:
+      EA_OPTS: maxdrawdown_enable=1,maxdrawdown=5
       SET_PARAMS: DefaultTrailingProfitMethod
       RUN_ON_SET: set_opt_params DefaultTrailingProfitMethod 0 -25 0
       SETFILE: /opt/sets/EA31337-DefaultTrailingMethod.set
@@ -21,6 +22,7 @@ services:
       - ./_results/EURUSD:/opt/_results:rw
     env_file: ../EA-Tester.ini
     environment:
+      EA_OPTS: maxdrawdown_enable=1,maxdrawdown=5
       SET_PARAMS: DefaultTrailingStopMethod
       RUN_ON_SET: set_opt_params DefaultTrailingStopMethod 0 -25 0
       SETFILE: /opt/sets/EA31337-DefaultTrailingMethod.set
