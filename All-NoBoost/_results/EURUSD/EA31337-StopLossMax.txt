@@ -5,13 +5,13 @@
                                                                EA31337-Rider-v1.079-dev
                                                                      (Build 1260)
 
-                            Symbol          EURUSD (Euro vs US Dollar)
-                            Period          30 Minutes (M30) 2019.06.02 21:01 - 2019.12.30 23:30 (2019.06.01 - 2019.12.31)
-                            Model           Every tick (the most precise method based on all available least timeframes)
-                            Initial deposit 100000.00
-                            Spread          10
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          1 Minute (M1) 2019.06.02 21:01 - 2019.12.30 23:59 (2019.06.01 - 2019.12.31)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 100000.00
+                             Spread          10
                                                                  [Optimization Graph]
            Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-              3 -3508.56         4228          0.66           -0.83    3775.38       3.77 StopLossMax=40; MaxOrders=0; MaxOrdersPerType=0;
-              1 -3528.55         3873          0.67           -0.91    3780.70       3.78  StopLossMax=0; MaxOrders=0; MaxOrdersPerType=0;
-              2 -3574.18         4313          0.64           -0.83    3758.37       3.76 StopLossMax=20; MaxOrders=0; MaxOrdersPerType=0;
+              3 -1246.56         3447          0.88           -0.36    1686.54       1.68 StopLossMax=40; MaxOrders=0; MaxOrdersPerType=0;
+              2 -1694.22         3475          0.84           -0.49    1730.85       1.73 StopLossMax=20; MaxOrders=0; MaxOrdersPerType=0;
+              1 -1808.37         3863          0.82           -0.47    1977.25       1.97  StopLossMax=0; MaxOrders=0; MaxOrdersPerType=0;
