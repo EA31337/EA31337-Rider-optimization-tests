@@ -11,10 +11,10 @@
                              Initial deposit 100000.00
                              Spread          10
                                                                  [Optimization Graph]
-           Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-              2  141.72         1010          1.02            0.14     684.82       0.68   TrendPeriod=15; MaxOrders=0; MaxOrdersPerType=0;
-              4  105.64          968          1.02            0.11     674.82       0.67   TrendPeriod=60; MaxOrders=0; MaxOrdersPerType=0;
-              3   90.14          967          1.01            0.09     659.92       0.66   TrendPeriod=30; MaxOrders=0; MaxOrdersPerType=0;
-              1   76.24         1015          1.01            0.08     676.82       0.67    TrendPeriod=5; MaxOrders=0; MaxOrdersPerType=0;
-              5   44.75         1175          1.01            0.04     713.45       0.71  TrendPeriod=240; MaxOrders=0; MaxOrdersPerType=0;
-              6 -279.50         1339          0.96           -0.21     845.30       0.84 TrendPeriod=1440; MaxOrders=0; MaxOrdersPerType=0;
+           Pass Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+              5 412.06          275          1.29            1.50     337.00       0.34  TrendPeriod=240; MaxOrders=0; MaxOrdersPerType=0;
+              4 180.09          244          1.12            0.74     452.19       0.45   TrendPeriod=60; MaxOrders=0; MaxOrdersPerType=0;
+              3 164.34          230          1.12            0.71     389.95       0.39   TrendPeriod=30; MaxOrders=0; MaxOrdersPerType=0;
+              1 101.14          223          1.08            0.45     398.94       0.40    TrendPeriod=5; MaxOrders=0; MaxOrdersPerType=0;
+              2 100.25          207          1.08            0.48     413.28       0.41   TrendPeriod=15; MaxOrders=0; MaxOrdersPerType=0;
+              6 -30.39          283          0.98           -0.11     544.74       0.54 TrendPeriod=1440; MaxOrders=0; MaxOrdersPerType=0;
