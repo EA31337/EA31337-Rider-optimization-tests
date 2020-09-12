@@ -9,7 +9,7 @@ services:
       - ./_results/EURUSD:/opt/_results:rw
     env_file: ../EA-Tester.ini
     environment:
-      BT_MONTHS: 5-12
+      BT_MONTHS: 8-12
       EA_OPTS: maxdrawdown_enable=1,maxdrawdown=2
       SET_PARAMS: DefaultTrailingProfitMethod
       RUN_ON_SET: set_opt_params DefaultTrailingProfitMethod 0 -25 0
