@@ -6,7 +6,7 @@ CloseOrderAfterXHours=0
 ProfitFactorMinToTrade=0
 ProfitFactorMaxToTrade=0
 # Optimization params.
-DefaultTrailingProfitMethod=-6
+DefaultTrailingProfitMethod=-7
 DefaultTrailingProfitMethod,F=0
 DefaultTrailingProfitMethod,1=0
 DefaultTrailingProfitMethod,2=0
