@@ -12,19 +12,19 @@
                              Spread          10
                                                                  [Optimization Graph]
            Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-              3     3.99            8          1.14            0.50      28.40       0.03  AD_Active_Tf=2; MaxOrders=0; MaxOrdersPerType=0;
-              7     3.99            8          1.14            0.50      28.40       0.03  AD_Active_Tf=6; MaxOrders=0; MaxOrdersPerType=0;
               1     0.00            0          0.00            0.00       0.00       0.00  AD_Active_Tf=0; MaxOrders=0; MaxOrdersPerType=0;
               5     0.00            0          0.00            0.00       0.00       0.00  AD_Active_Tf=4; MaxOrders=0; MaxOrdersPerType=0;
-              4  -622.29          530          0.23           -1.17     703.39       0.70  AD_Active_Tf=3; MaxOrders=0; MaxOrdersPerType=0;
-              8  -622.29          530          0.23           -1.17     703.39       0.70  AD_Active_Tf=7; MaxOrders=0; MaxOrdersPerType=0;
-              2  -624.68          522          0.20           -1.20     690.88       0.69  AD_Active_Tf=1; MaxOrders=0; MaxOrdersPerType=0;
-              6  -626.28          522          0.20           -1.20     692.48       0.69  AD_Active_Tf=5; MaxOrders=0; MaxOrdersPerType=0;
-             11  -627.94          625          0.26           -1.00     674.93       0.67 AD_Active_Tf=10; MaxOrders=0; MaxOrdersPerType=0;
-             15  -627.94          625          0.26           -1.00     674.93       0.67 AD_Active_Tf=14; MaxOrders=0; MaxOrdersPerType=0;
-              9  -631.93          617          0.23           -1.02     664.02       0.66  AD_Active_Tf=8; MaxOrders=0; MaxOrdersPerType=0;
-             13  -631.93          617          0.23           -1.02     664.02       0.66 AD_Active_Tf=12; MaxOrders=0; MaxOrdersPerType=0;
-             12 -1253.62         1146          0.23           -1.09    1340.42       1.34 AD_Active_Tf=11; MaxOrders=0; MaxOrdersPerType=0;
-             16 -1253.62         1146          0.23           -1.09    1340.42       1.34 AD_Active_Tf=15; MaxOrders=0; MaxOrdersPerType=0;
-             10 -1257.61         1138          0.22           -1.11    1329.51       1.33  AD_Active_Tf=9; MaxOrders=0; MaxOrdersPerType=0;
-             14 -1257.61         1138          0.22           -1.11    1329.51       1.33 AD_Active_Tf=13; MaxOrders=0; MaxOrdersPerType=0;
+              3    -3.51           17          0.91           -0.21      30.20       0.03  AD_Active_Tf=2; MaxOrders=0; MaxOrdersPerType=0;
+              7    -3.51           17          0.91           -0.21      30.20       0.03  AD_Active_Tf=6; MaxOrders=0; MaxOrdersPerType=0;
+              9  -530.07          603          0.31           -0.88     573.46       0.57  AD_Active_Tf=8; MaxOrders=0; MaxOrdersPerType=0;
+             13  -530.07          603          0.31           -0.88     573.46       0.57 AD_Active_Tf=12; MaxOrders=0; MaxOrdersPerType=0;
+             11  -539.47          620          0.33           -0.87     592.26       0.59 AD_Active_Tf=10; MaxOrders=0; MaxOrdersPerType=0;
+             15  -539.47          620          0.33           -0.87     592.26       0.59 AD_Active_Tf=14; MaxOrders=0; MaxOrdersPerType=0;
+              4  -690.72          835          0.37           -0.83     760.94       0.76  AD_Active_Tf=3; MaxOrders=0; MaxOrdersPerType=0;
+              8  -690.72          835          0.37           -0.83     760.94       0.76  AD_Active_Tf=7; MaxOrders=0; MaxOrdersPerType=0;
+              2  -693.62          822          0.35           -0.84     741.84       0.74  AD_Active_Tf=1; MaxOrders=0; MaxOrdersPerType=0;
+              6  -693.62          822          0.35           -0.84     741.84       0.74  AD_Active_Tf=5; MaxOrders=0; MaxOrdersPerType=0;
+             12 -1166.39         1419          0.35           -0.82    1242.49       1.24 AD_Active_Tf=11; MaxOrders=0; MaxOrdersPerType=0;
+             16 -1166.39         1419          0.35           -0.82    1242.49       1.24 AD_Active_Tf=15; MaxOrders=0; MaxOrdersPerType=0;
+             10 -1168.48         1405          0.34           -0.83    1230.89       1.23  AD_Active_Tf=9; MaxOrders=0; MaxOrdersPerType=0;
+             14 -1168.48         1405          0.34           -0.83    1230.89       1.23 AD_Active_Tf=13; MaxOrders=0; MaxOrdersPerType=0;
