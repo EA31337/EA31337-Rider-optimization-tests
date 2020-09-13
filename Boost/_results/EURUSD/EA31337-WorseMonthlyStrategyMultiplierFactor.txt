@@ -1,0 +1,56 @@
+
+
+
+                                                                 Optimization Report
+                                                               EA31337-Rider-v1.080-dev
+                                                                     (Build 1260)
+
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          1 Minute (M1) 2019.01.01 23:42 - 2019.12.30 23:59 (2019.01.01 - 2019.12.31)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 100000.00
+                             Spread          10
+                                                                 [Optimization Graph]
+        Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+          21 14410.11          622          1.25           23.17   20884.57      19.97 WorseMonthlyStrategyMultiplierFactor=2.4; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          19 14323.04          622          1.26           23.03   20547.37      19.65 WorseMonthlyStrategyMultiplierFactor=2.2; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          15 14292.81          622          1.29           22.98   19994.26      19.12 WorseMonthlyStrategyMultiplierFactor=1.8; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          17 14285.16          622          1.27           22.97   20226.59      19.34   WorseMonthlyStrategyMultiplierFactor=2; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          14 14282.53          622          1.30           22.96   19962.59      19.09 WorseMonthlyStrategyMultiplierFactor=1.7; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          20 14277.54          622          1.25           22.95   20707.06      19.80 WorseMonthlyStrategyMultiplierFactor=2.3; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          12 14271.39          622          1.31           22.94   19776.33      18.91 WorseMonthlyStrategyMultiplierFactor=1.5; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          16 14200.39          622          1.28           22.83   20161.36      19.28 WorseMonthlyStrategyMultiplierFactor=1.9; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          11 14195.55          622          1.31           22.82   19730.37      18.87 WorseMonthlyStrategyMultiplierFactor=1.4; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          10 14184.16          622          1.32           22.80   19657.01      18.80 WorseMonthlyStrategyMultiplierFactor=1.3; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          13 14147.31          622          1.30           22.74   19927.41      19.06 WorseMonthlyStrategyMultiplierFactor=1.6; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+          18 14141.15          621          1.26           22.77   20387.76      19.50 WorseMonthlyStrategyMultiplierFactor=2.1; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           9 14135.43          622          1.32           22.73   19563.75      18.71 WorseMonthlyStrategyMultiplierFactor=1.2; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           8 14129.99          622          1.33           22.72   19523.17      18.67 WorseMonthlyStrategyMultiplierFactor=1.1; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           7 14123.63          622          1.34           22.71   19503.33      18.65   WorseMonthlyStrategyMultiplierFactor=1; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           6 13983.69          622          1.34           22.48   19468.65      18.62 WorseMonthlyStrategyMultiplierFactor=0.9; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           5 13933.97          622          1.34           22.40   19388.00      18.54 WorseMonthlyStrategyMultiplierFactor=0.8; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           4 13831.48          622          1.35           22.24   19336.33      18.49 WorseMonthlyStrategyMultiplierFactor=0.7; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           3 13754.11          622          1.35           22.11   19328.29      18.48 WorseMonthlyStrategyMultiplierFactor=0.6; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           2 13446.27          622          1.34           21.62   19100.14      18.26 WorseMonthlyStrategyMultiplierFactor=0.5; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
+           1 13206.05          622          1.34           21.23   19113.75      18.28 WorseMonthlyStrategyMultiplierFactor=0.4; MaxOrders=0;
+                                                                                                                          MaxOrdersPerType=0;
