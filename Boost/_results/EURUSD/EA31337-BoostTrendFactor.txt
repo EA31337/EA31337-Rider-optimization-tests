@@ -1,0 +1,19 @@
+
+
+
+                                                                 Optimization Report
+                                                               EA31337-Rider-v1.080-dev
+                                                                     (Build 1260)
+
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          1 Minute (M1) 2019.01.01 23:42 - 2019.12.30 23:59 (2019.01.01 - 2019.12.31)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 100000.00
+                             Spread          10
+                                                                 [Optimization Graph]
+        Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+           1 18537.79          622          1.69           29.80   19594.94      18.78 BoostTrendFactor=0.3; MaxOrders=0; MaxOrdersPerType=0;
+           2 17905.59          622          1.62           28.79   19445.88      18.64 BoostTrendFactor=0.4; MaxOrders=0; MaxOrdersPerType=0;
+           3 17498.07          622          1.56           28.13   19411.77      18.58 BoostTrendFactor=0.5; MaxOrders=0; MaxOrdersPerType=0;
+           4 16434.78          622          1.49           26.42   19391.93      18.57 BoostTrendFactor=0.6; MaxOrders=0; MaxOrdersPerType=0;
+           5 15396.89          622          1.44           24.75   19388.94      18.59 BoostTrendFactor=0.7; MaxOrders=0; MaxOrdersPerType=0;
