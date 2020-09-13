@@ -27,7 +27,7 @@ jobs:
           git config --local core.autocrlf false
           git config --local user.email "$git_email"
           git config --local user.name "${{ github.actor }}"
-          git pull origin ${{ github.ref }} --autostash --rebase -xours
+          git pull origin ${{ github.ref }} --autostash --rebase -Xours
           git add . && git add --renormalize .
           git status
           git commit -am "${{ github.workflow }}"
@@ -61,7 +61,7 @@ jobs:
           git config --local core.autocrlf false
           git config --local user.email "$git_email"
           git config --local user.name "${{ github.actor }}"
-          git pull origin ${{ github.ref }} --autostash --rebase -xours
+          git pull origin ${{ github.ref }} --autostash --rebase -Xours
           git add . && git add --renormalize .
           git status
           git commit -am "${{ github.workflow }}"
