@@ -11,5 +11,9 @@
                              Initial deposit 100000.00
                              Spread          10
                                                                  [Optimization Graph]
-       Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-          1 -4313.84         3105          0.94           -1.39    7758.75       7.62 InitNoOfDaysToWarmUp=28; MaxOrders=0; MaxOrdersPerType=0;
+       Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+          1 6140.99          622          1.39            9.87    3007.08       2.76  InitNoOfDaysToWarmUp=0; MaxOrders=0; MaxOrdersPerType=0;
+          2 3631.99          622          1.23            5.84    3007.08       2.82  InitNoOfDaysToWarmUp=7; MaxOrders=0; MaxOrdersPerType=0;
+          3 3571.38          622          1.23            5.74    3007.08       2.83 InitNoOfDaysToWarmUp=14; MaxOrders=0; MaxOrdersPerType=0;
+          4 3191.47          622          1.21            5.13    3007.08       2.84 InitNoOfDaysToWarmUp=21; MaxOrders=0; MaxOrdersPerType=0;
+          5  739.63          533          1.07            1.39    3068.09       2.96 InitNoOfDaysToWarmUp=28; MaxOrders=0; MaxOrdersPerType=0;
