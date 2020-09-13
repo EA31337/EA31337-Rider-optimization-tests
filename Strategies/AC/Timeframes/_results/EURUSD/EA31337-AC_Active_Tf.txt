@@ -1,0 +1,30 @@
+
+
+
+                                                                 Optimization Report
+                                                               EA31337-Rider-v1.080-dev
+                                                                     (Build 1260)
+
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          1 Minute (M1) 2019.01.01 23:42 - 2019.12.30 23:59 (2019.01.01 - 2019.12.31)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 100000.00
+                             Spread          10
+                                                                 [Optimization Graph]
+           Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+              3   30.24          439          1.06            0.07     254.94       0.25  AC_Active_Tf=2; MaxOrders=0; MaxOrdersPerType=0;
+              7   30.24          439          1.06            0.07     254.94       0.25  AC_Active_Tf=6; MaxOrders=0; MaxOrdersPerType=0;
+              1    0.00            0          0.00            0.00       0.00       0.00  AC_Active_Tf=0; MaxOrders=0; MaxOrdersPerType=0;
+              5    0.00            0          0.00            0.00       0.00       0.00  AC_Active_Tf=4; MaxOrders=0; MaxOrdersPerType=0;
+              4  -17.88          611          0.97           -0.03     282.65       0.28  AC_Active_Tf=3; MaxOrders=0; MaxOrdersPerType=0;
+              8  -17.88          611          0.97           -0.03     282.65       0.28  AC_Active_Tf=7; MaxOrders=0; MaxOrdersPerType=0;
+              2  -45.42          171          0.80           -0.27     106.51       0.11  AC_Active_Tf=1; MaxOrders=0; MaxOrdersPerType=0;
+              6  -45.42          171          0.80           -0.27     106.51       0.11  AC_Active_Tf=5; MaxOrders=0; MaxOrdersPerType=0;
+             11 -378.72          959          0.66           -0.39     497.97       0.50 AC_Active_Tf=10; MaxOrders=0; MaxOrdersPerType=0;
+             15 -378.72          959          0.66           -0.39     497.97       0.50 AC_Active_Tf=14; MaxOrders=0; MaxOrdersPerType=0;
+              9 -398.67          517          0.36           -0.77     475.65       0.48  AC_Active_Tf=8; MaxOrders=0; MaxOrdersPerType=0;
+             13 -398.67          517          0.36           -0.77     475.65       0.48 AC_Active_Tf=12; MaxOrders=0; MaxOrdersPerType=0;
+             12 -423.65         1131          0.68           -0.37     563.98       0.56 AC_Active_Tf=11; MaxOrders=0; MaxOrdersPerType=0;
+             16 -423.65         1131          0.68           -0.37     563.98       0.56 AC_Active_Tf=15; MaxOrders=0; MaxOrdersPerType=0;
+             10 -444.49          686          0.47           -0.65     528.57       0.53  AC_Active_Tf=9; MaxOrders=0; MaxOrdersPerType=0;
+             14 -444.49          686          0.47           -0.65     528.57       0.53 AC_Active_Tf=13; MaxOrders=0; MaxOrdersPerType=0;
