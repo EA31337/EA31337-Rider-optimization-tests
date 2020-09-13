@@ -12,19 +12,19 @@
                              Spread          10
                                                                  [Optimization Graph]
           Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-             3  143.83          498          1.17            0.29     312.39       0.31  Force_Active_Tf=2; MaxOrders=0; MaxOrdersPerType=0;
-             7  143.83          498          1.17            0.29     312.39       0.31  Force_Active_Tf=6; MaxOrders=0; MaxOrdersPerType=0;
-            11   83.02          540          1.09            0.15     321.09       0.32 Force_Active_Tf=10; MaxOrders=0; MaxOrdersPerType=0;
-            15   83.02          540          1.09            0.15     321.09       0.32 Force_Active_Tf=14; MaxOrders=0; MaxOrdersPerType=0;
-             4    1.72          646          1.00            0.00     364.49       0.36  Force_Active_Tf=3; MaxOrders=0; MaxOrdersPerType=0;
-             8    1.72          646          1.00            0.00     364.49       0.36  Force_Active_Tf=7; MaxOrders=0; MaxOrdersPerType=0;
+             3  339.70          507          1.44            0.67     295.20       0.30  Force_Active_Tf=2; MaxOrders=0; MaxOrdersPerType=0;
+             7  339.70          507          1.44            0.67     295.20       0.30  Force_Active_Tf=6; MaxOrders=0; MaxOrdersPerType=0;
+             4  298.08          680          1.30            0.44     333.90       0.33  Force_Active_Tf=3; MaxOrders=0; MaxOrdersPerType=0;
+             8  298.08          680          1.30            0.44     333.90       0.33  Force_Active_Tf=7; MaxOrders=0; MaxOrdersPerType=0;
              1    0.00            0          0.00            0.00       0.00       0.00  Force_Active_Tf=0; MaxOrders=0; MaxOrdersPerType=0;
              5    0.00            0          0.00            0.00       0.00       0.00  Force_Active_Tf=4; MaxOrders=0; MaxOrdersPerType=0;
-            12  -59.39          686          0.95           -0.09     373.20       0.37 Force_Active_Tf=11; MaxOrders=0; MaxOrdersPerType=0;
-            16  -59.39          686          0.95           -0.09     373.20       0.37 Force_Active_Tf=15; MaxOrders=0; MaxOrdersPerType=0;
-             9  -70.71           36          0.29           -1.96     101.11       0.10  Force_Active_Tf=8; MaxOrders=0; MaxOrdersPerType=0;
-            13  -70.71           36          0.29           -1.96     101.11       0.10 Force_Active_Tf=12; MaxOrders=0; MaxOrdersPerType=0;
-             2 -191.21          147          0.22           -1.30     211.51       0.21  Force_Active_Tf=1; MaxOrders=0; MaxOrdersPerType=0;
-             6 -192.81          147          0.22           -1.31     213.11       0.21  Force_Active_Tf=5; MaxOrders=0; MaxOrdersPerType=0;
-            10 -260.92          180          0.24           -1.45     289.42       0.29  Force_Active_Tf=9; MaxOrders=0; MaxOrdersPerType=0;
-            14 -260.92          180          0.24           -1.45     289.42       0.29 Force_Active_Tf=13; MaxOrders=0; MaxOrdersPerType=0;
+             2  -45.42          171          0.80           -0.27     106.51       0.11  Force_Active_Tf=1; MaxOrders=0; MaxOrdersPerType=0;
+             6  -45.42          171          0.80           -0.27     106.51       0.11  Force_Active_Tf=5; MaxOrders=0; MaxOrdersPerType=0;
+            11  -72.90          995          0.95           -0.07     498.00       0.50 Force_Active_Tf=10; MaxOrders=0; MaxOrdersPerType=0;
+            15  -72.90          995          0.95           -0.07     498.00       0.50 Force_Active_Tf=14; MaxOrders=0; MaxOrdersPerType=0;
+            12 -108.73         1164          0.93           -0.09     535.70       0.54 Force_Active_Tf=11; MaxOrders=0; MaxOrdersPerType=0;
+            16 -108.73         1164          0.93           -0.09     535.70       0.54 Force_Active_Tf=15; MaxOrders=0; MaxOrdersPerType=0;
+            10 -130.83          330          0.79           -0.40     249.61       0.25  Force_Active_Tf=9; MaxOrders=0; MaxOrdersPerType=0;
+            14 -130.83          330          0.79           -0.40     249.61       0.25 Force_Active_Tf=13; MaxOrders=0; MaxOrdersPerType=0;
+             9 -158.31          204          0.66           -0.78     212.20       0.21  Force_Active_Tf=8; MaxOrders=0; MaxOrdersPerType=0;
+            13 -158.31          204          0.66           -0.78     212.20       0.21 Force_Active_Tf=12; MaxOrders=0; MaxOrdersPerType=0;
