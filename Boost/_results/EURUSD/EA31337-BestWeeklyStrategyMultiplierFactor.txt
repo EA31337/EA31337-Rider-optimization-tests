@@ -12,6 +12,7 @@
                              Spread          10
                                                                  [Optimization Graph]
 Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+<<<<<<< Updated upstream
    3  3817.52          290          1.46           13.16    2147.60       2.12                   BestWeeklyStrategyMultiplierFactor=0.2; MaxOrders=0;
                                                                                                                                   MaxOrdersPerType=0;
    4  2826.13          290          1.32            9.75    2949.20       2.90                   BestWeeklyStrategyMultiplierFactor=0.3; MaxOrders=0;
@@ -25,3 +26,6 @@ Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
    7 -1452.22          290          0.88           -5.01    6623.20       6.50                   BestWeeklyStrategyMultiplierFactor=0.6; MaxOrders=0;
                                                                                                                                   MaxOrdersPerType=0;
    1 -1695.61          290          0.89           -5.85    8069.20       7.83 BestWeeklyStrategyMultiplierFactor=0; MaxOrders=0; MaxOrdersPerType=0;
+=======
+   1 14315.53          622          1.34           23.02   19568.94      18.67 BestWeeklyStrategyMultiplierFactor=0; MaxOrders=0; MaxOrdersPerType=0;
+>>>>>>> Stashed changes
